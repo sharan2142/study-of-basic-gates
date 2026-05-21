@@ -77,6 +77,7 @@ xnor(xnorgate,a,b);
 nor(norgate,a,b);
 nand(nandgate,a,b);
 endmodule
+
 ``
 
  Developed by: RegisterNumber: 
